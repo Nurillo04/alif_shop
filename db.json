@@ -1,25 +1,40 @@
 {
-  "products": [
+  "phones": [
     {
-      "id": "43785",
-      "title": "iPhone 15 Pro",
-      "brand": "Apple",
-      "price": "15699000",
-      "oldPrice": "17290000"
+      "id": 1,
+      "img": "https://minio.alifnasiya.uz/shop/catalog/product/73622/1709273276-1702297159-w91yHQ8iogf6g4A60NYIZUqihwy9RYjAVGkZRXhE.jpg",
+      "mal": "Смартфон Tecno spark GO 2024 (BG6) 3/64 ГБ, черный",
+      "price": 11111
     },
     {
-      "id": "43785",
-      "title": "iPhone 15 Pro",
-      "brand": "Apple",
-      "price": "15699000",
-      "oldPrice": "17290000"
+      "id": 2,
+      "img": "https://minio.alifnasiya.uz/shop/catalog/product/73622/1709273276-1702297159-w91yHQ8iogf6g4A60NYIZUqihwy9RYjAVGkZRXhE.jpg",
+      "mal": "Смартфон Tecno spark GO 2024 (BG6) 3/64 ГБ, черный",
+      "price": 11111
     },
     {
-      "id": "43785",
-      "title": "iPhone 15 Pro",
-      "brand": "Apple",
-      "price": "15699000",
-      "oldPrice": "17290000"
+      "id": 3,
+      "img": "https://minio.alifnasiya.uz/shop/catalog/product/73622/1709273276-1702297159-w91yHQ8iogf6g4A60NYIZUqihwy9RYjAVGkZRXhE.jpg",
+      "mal": "Смартфон Tecno spark GO 2024 (BG6) 3/64 ГБ, черный",
+      "price": 11111
+    },
+    {
+      "id": 4,
+      "img": "https://minio.alifnasiya.uz/shop/catalog/product/73622/1709273276-1702297159-w91yHQ8iogf6g4A60NYIZUqihwy9RYjAVGkZRXhE.jpg",
+      "mal": "Смартфон Tecno spark GO 2024 (BG6) 3/64 ГБ, черный",
+      "price": 11111
+    },
+    {
+      "id": 5,
+      "img": "https://minio.alifnasiya.uz/shop/catalog/product/73622/1709273276-1702297159-w91yHQ8iogf6g4A60NYIZUqihwy9RYjAVGkZRXhE.jpg",
+      "mal": "Смартфон Tecno spark GO 2024 (BG6) 3/64 ГБ, черный",
+      "price": 11111
+    },
+    {
+      "id": 6,
+      "img": "https://minio.alifnasiya.uz/shop/catalog/product/73622/1709273276-1702297159-w91yHQ8iogf6g4A60NYIZUqihwy9RYjAVGkZRXhE.jpg",
+      "mal": "Смартфон Tecno spark GO 2024 (BG6) 3/64 ГБ, черный",
+      "price": 11111
     }
   ]
 }
